@@ -1,1 +1,3 @@
 # omlet-timetracker
+This is intended to be a GUI desktop application. It will be helpful for keeping track of time spent on a couple of measured tasks independently.
+Work in progress...
